@@ -1,4 +1,4 @@
-# Roteiro do Desenvolvedor Node.js
+* Roteiro do Desenvolvedor Node.js
 
 > Roteiro para se tornar um desenvolvedor [Node.js](https://nodejs.org/en/) em 2019:
 
@@ -10,9 +10,9 @@ Abaixo, você pode encontrar um gráfico demonstrando os caminhos que você pode
 
 > O propósito deste roteiro é fornecer uma ideia sobre o panorama. O roteiro o guiará se estiver confuso sobre o que seguir e aprender, em vez de encorajá-lo a escolher o que há de mais moderno. Você deve entender melhor cada ferramenta e porque ela será mais adequada para alguns casos do que outra e lembre-se que o nem sempre o que esta na moda será o melhor para o trabalho.
 
-## Dê uma estrela! :star:
+## Dê uma estrela* :star:
 
-Se você esta gostando ou está utilizando este projeto para aprender ou iniciar sua solução, dê uma estrela a ele. Obrigado!
+Se você esta gostando ou está utilizando este projeto para aprender ou iniciar sua solução, dê uma estrela a ele. Obrigado*
 
 ## Roteiro
 
@@ -173,3 +173,4 @@ O roteiro é criado usando [Draw.io](https://www.draw.io/). O arquivo do projeto
 ## Licença
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+ 
